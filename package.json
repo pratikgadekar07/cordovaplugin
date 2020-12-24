@@ -1,15 +1,40 @@
 {
-  "name": "mathcalculator",
-  "version": "1.0.1",
-  "description": "this my first cordova custom plugin",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "git+https://github.com/pratikgadekar07/cordovaplugin.git",
+  "_id": "mathcalculator@1.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/mathcalculator",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/pratikgadekar07/cordovaplugin.git",
+    "rawSpec": "https://github.com/pratikgadekar07/cordovaplugin.git",
+    "saveSpec": "git+https://github.com/pratikgadekar07/cordovaplugin.git",
+    "fetchSpec": "https://github.com/pratikgadekar07/cordovaplugin.git",
+    "gitCommittish": null
   },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/pratikgadekar07/cordovaplugin.git#3f5783babcb5c75c43d111653b1859bee8f91fea",
+  "_spec": "https://github.com/pratikgadekar07/cordovaplugin.git",
+  "_where": "C:\\Tutorial\\ionic 4\\myAppPlugin",
+  "author": {
+    "name": "pratikgadekar"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "this my first cordova custom plugin",
   "keywords": [
     "math",
     "ionic"
   ],
-  "author": "pratikgadekar",
-  "license": "ISC"
+  "license": "ISC",
+  "main": "index.js",
+  "name": "mathcalculator",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1"
 }
